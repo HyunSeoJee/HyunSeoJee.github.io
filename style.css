@@ -1,16 +1,16 @@
 *{
-    background-color: brown;
+    background-color: skyblue;
 }
 .img{
     height: 50%;
     border-radius: 5%;
     object-fit: cover;
     border-width: 10px;
-    border-color: burlywood;
+    border-color: white;
     border-style: solid;
 }
 .website{
     display: flex;
     align-items: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Courier New', Courier, monospace;
 }
